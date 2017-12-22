@@ -1,0 +1,9 @@
+{
+	"name":"Locked Door",
+	"description":"a locked wooden door",
+	"type":1,
+	"chain":"0",
+	"flag":"regular key",
+	"location":"on the south side of the room",
+	"action":"none"
+}

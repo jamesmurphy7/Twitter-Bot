@@ -1,0 +1,10 @@
+{
+	"name":"lockedEastDoor",
+	"description":"a locked wooden door",
+	"type":1,
+	"chain":"0",
+	"flag":"eastLock",
+	"trigger":"regular key",
+	"location":"on the east side of the room",
+	"action":"none"
+}

@@ -1,0 +1,9 @@
+{
+     "name":"I2",
+	"description":"this is a second placeholder room basically this string would be a very long description for it",
+	"type":1,
+	"chain":"0",
+	"flag":"none",
+	"location":"in the middle of the room.",
+	"action":"none"
+}

@@ -1,0 +1,13 @@
+{
+     "name":"B3",
+     "description":"welcome to room B3.",
+     
+    "inventory":{
+        "testItem":"none",
+        "testItem2":"none",
+	"lockedEastDoor":"eastLock"
+    },
+    "flags":{
+    	"room is dark":"you find yourself in a very dark room, it's so dark you can't even see your own hands in front of you"
+    }
+}

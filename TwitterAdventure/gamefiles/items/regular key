@@ -1,0 +1,9 @@
+{
+	"name":"regular key",
+	"description":"A regular key",
+	"type":0,
+	"flag":"room is dark",
+	"chain":"1",
+	"location":"none",
+	"action":"you used a key"
+}

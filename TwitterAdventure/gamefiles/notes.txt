@@ -1,0 +1,4 @@
+construction of room contains item names
+items are given by the item name and a flag they may throw or add:
+items also contain a possible flag
+the flags of all the items in a room are checked prior to player actions

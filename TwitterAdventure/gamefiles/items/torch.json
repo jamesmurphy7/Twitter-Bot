@@ -1,0 +1,9 @@
+{
+	"name":"torch",
+	"description":"A regular torch",
+	"type":0,
+	"flag":"room is dark",
+	"chain":"0",
+	"location":"none",
+	"action":"you light a torch"
+}

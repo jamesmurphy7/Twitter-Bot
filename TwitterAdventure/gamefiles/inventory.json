@@ -1,0 +1,15 @@
+{
+     "name":"inventory",
+     "description":"this is your inventory",
+     
+    "inventory":{
+        "testItem":"testItem",
+        "testItem2":"testItem2",
+	"torch":"torch",
+	"regular key":"regular key"
+    },
+    "flags":{
+    	"room is dark":"you find yourself in a very dark room, it's so dark you can't even see your own hands in front of you",
+    	"south door is locked":"1"
+    }
+}

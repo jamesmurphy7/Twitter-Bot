@@ -1,0 +1,13 @@
+{
+     "name":"A1",
+     "description":"this is a placeholder room basically this string would be a very long description for it",
+     
+    "inventory":{
+        "testItem":"testItem",
+        "testItem2":"testItem2"
+    },
+    "flags":[
+    	"room is dark",
+    	"south door is locked"
+    ]
+}
